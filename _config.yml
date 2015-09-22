@@ -33,6 +33,7 @@ colors:
   purple:    '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
+  custom:     '/img/slide1.jpg'
 
 kramdown:
   auto_ids:  false
